@@ -1,0 +1,1201 @@
+Year,Day,Amount_Lost_INR,Incident_Type,City,Category
+2022,22,86530,Data Breach,Bangalore,Corporate
+2023,21,231983,Phishing,Kolkata,Educational
+2021,6,284707,Data Breach,Bangalore,E-commerce
+2023,6,433557,Phishing,Ahmedabad,Health
+2023,23,378816,Phishing,Jaipur,Government
+2020,16,399992,Phishing,Mumbai,Corporate
+2021,4,430660,Online Fraud,Kolkata,Financial
+2021,11,463132,Ransomware,Ahmedabad,Health
+2021,24,402927,Data Breach,Pune,Government
+2023,23,206390,Identity Theft,Pune,Government
+2022,9,346114,Phishing,Pune,Corporate
+2021,23,244373,Online Fraud,Jaipur,Government
+2024,3,348697,Online Fraud,Bangalore,Corporate
+2023,19,162779,Online Fraud,Mumbai,E-commerce
+2020,8,171182,Data Breach,Pune,Personal
+2022,5,193860,Ransomware,Lucknow,Health
+2024,4,83879,Data Breach,Kolkata,Educational
+2024,24,433043,Identity Theft,Delhi,Personal
+2020,6,239260,Ransomware,Lucknow,Health
+2022,2,399871,Malware,Mumbai,Corporate
+2023,20,308003,Cyber Bullying,Jaipur,Health
+2019,28,447841,Online Fraud,Mumbai,E-commerce
+2022,11,315242,Data Breach,Delhi,Corporate
+2020,4,147323,Malware,Kolkata,Personal
+2024,15,123413,Hacking,Delhi,Financial
+2023,6,263670,Data Breach,Hyderabad,Financial
+2022,22,331904,Phishing,Kolkata,Social Media
+2019,17,48837,Cyber Bullying,Mumbai,Social Media
+2019,24,261550,Phishing,Pune,Health
+2021,6,274680,Ransomware,Mumbai,Financial
+2021,19,29541,Cyber Bullying,Mumbai,Corporate
+2020,25,80083,Data Breach,Kolkata,Government
+2022,2,445243,Identity Theft,Hyderabad,Corporate
+2022,15,35531,Malware,Mumbai,Government
+2024,11,271856,Identity Theft,Lucknow,Personal
+2024,8,367245,Data Breach,Ahmedabad,Educational
+2024,26,328599,Ransomware,Chennai,Government
+2021,19,75744,Phishing,Chennai,Financial
+2022,13,253859,Cyber Bullying,Mumbai,Corporate
+2022,12,130749,Identity Theft,Lucknow,Personal
+2019,5,268253,Data Breach,Pune,Financial
+2021,6,312412,Identity Theft,Jaipur,Personal
+2023,26,232809,Data Breach,Jaipur,Educational
+2021,22,317759,Phishing,Kolkata,E-commerce
+2023,4,83503,Cyber Bullying,Chennai,Corporate
+2019,19,255346,Malware,Mumbai,Health
+2020,20,423975,Phishing,Jaipur,Corporate
+2022,1,86708,Identity Theft,Mumbai,Social Media
+2019,20,192184,Malware,Kolkata,Educational
+2022,17,103471,Data Breach,Chennai,Corporate
+2024,12,255225,Malware,Delhi,Social Media
+2020,15,158661,Data Breach,Ahmedabad,Health
+2020,1,162087,Phishing,Ahmedabad,Government
+2019,26,161081,Identity Theft,Jaipur,Personal
+2020,14,346453,Ransomware,Ahmedabad,Health
+2023,6,389590,Identity Theft,Delhi,Financial
+2020,5,194118,Data Breach,Mumbai,Educational
+2022,11,369805,Online Fraud,Kolkata,Government
+2022,4,158215,Cyber Bullying,Delhi,Financial
+2022,13,7154,Hacking,Kolkata,Financial
+2022,11,153876,Ransomware,Kolkata,Educational
+2023,3,435904,Malware,Chennai,Government
+2021,1,65288,Ransomware,Mumbai,E-commerce
+2024,6,52195,Cyber Bullying,Lucknow,Financial
+2019,18,283725,Malware,Ahmedabad,Financial
+2022,24,446864,Cyber Bullying,Lucknow,Government
+2020,10,293231,Malware,Chennai,Corporate
+2022,5,182002,Ransomware,Kolkata,Financial
+2020,23,165053,Malware,Jaipur,Personal
+2024,10,70298,Malware,Ahmedabad,Government
+2024,12,309311,Online Fraud,Ahmedabad,Financial
+2024,2,207376,Identity Theft,Mumbai,Educational
+2020,13,437624,Identity Theft,Hyderabad,Health
+2022,8,40499,Hacking,Bangalore,Personal
+2024,2,388960,Hacking,Bangalore,Social Media
+2023,20,446485,Data Breach,Bangalore,Social Media
+2020,1,170631,Data Breach,Hyderabad,Health
+2020,5,246198,Data Breach,Mumbai,Social Media
+2022,9,468535,Online Fraud,Hyderabad,Health
+2020,17,243997,Hacking,Bangalore,Financial
+2020,9,489533,Cyber Bullying,Chennai,Personal
+2024,11,97347,Data Breach,Delhi,Personal
+2022,15,311931,Data Breach,Kolkata,Corporate
+2024,24,298632,Ransomware,Hyderabad,Health
+2024,6,337585,Phishing,Mumbai,Personal
+2022,23,206735,Cyber Bullying,Mumbai,Corporate
+2019,3,23431,Data Breach,Lucknow,Government
+2024,17,324825,Data Breach,Delhi,Corporate
+2023,5,195555,Data Breach,Jaipur,Educational
+2023,28,123720,Phishing,Ahmedabad,E-commerce
+2020,12,50153,Phishing,Bangalore,Financial
+2023,18,269512,Online Fraud,Jaipur,Government
+2020,14,421640,Cyber Bullying,Lucknow,E-commerce
+2019,21,375504,Online Fraud,Bangalore,E-commerce
+2022,24,177076,Malware,Delhi,Government
+2022,11,478085,Phishing,Lucknow,Educational
+2022,9,220724,Ransomware,Bangalore,Corporate
+2023,2,375899,Hacking,Delhi,Financial
+2019,12,57985,Ransomware,Pune,Corporate
+2023,3,313213,Hacking,Jaipur,Personal
+2023,3,315470,Phishing,Jaipur,Corporate
+2019,1,109737,Phishing,Ahmedabad,Social Media
+2019,8,213133,Phishing,Delhi,Government
+2019,22,155470,Online Fraud,Hyderabad,Financial
+2019,28,230465,Cyber Bullying,Pune,Corporate
+2022,8,51861,Hacking,Chennai,Financial
+2021,11,339041,Cyber Bullying,Bangalore,Financial
+2021,9,213977,Online Fraud,Pune,Personal
+2019,5,128118,Online Fraud,Delhi,Personal
+2021,14,331721,Identity Theft,Kolkata,Government
+2021,28,197713,Ransomware,Bangalore,Educational
+2019,3,10078,Ransomware,Mumbai,Social Media
+2021,21,419219,Malware,Jaipur,E-commerce
+2023,5,325912,Data Breach,Delhi,Financial
+2020,5,52047,Online Fraud,Mumbai,Educational
+2020,19,334770,Hacking,Ahmedabad,E-commerce
+2019,27,320804,Identity Theft,Lucknow,E-commerce
+2022,14,236458,Identity Theft,Chennai,Social Media
+2019,26,444002,Data Breach,Chennai,Government
+2022,4,396141,Cyber Bullying,Mumbai,E-commerce
+2020,25,216048,Data Breach,Jaipur,Social Media
+2019,13,237293,Data Breach,Ahmedabad,E-commerce
+2024,10,118832,Data Breach,Kolkata,Financial
+2023,25,393550,Ransomware,Jaipur,Financial
+2021,18,126150,Online Fraud,Pune,Health
+2022,8,158087,Malware,Chennai,Educational
+2024,8,34320,Online Fraud,Pune,Corporate
+2021,7,328025,Cyber Bullying,Bangalore,Social Media
+2021,8,91827,Phishing,Hyderabad,Personal
+2019,14,365359,Data Breach,Delhi,Social Media
+2021,19,420505,Online Fraud,Ahmedabad,Corporate
+2023,6,260931,Cyber Bullying,Jaipur,Educational
+2024,1,397605,Phishing,Chennai,Personal
+2021,23,419899,Phishing,Pune,Corporate
+2019,15,407845,Data Breach,Lucknow,Health
+2023,1,324694,Malware,Bangalore,Personal
+2020,25,25826,Hacking,Delhi,Financial
+2024,17,101734,Ransomware,Delhi,Corporate
+2021,1,158702,Online Fraud,Jaipur,Social Media
+2019,15,230834,Phishing,Ahmedabad,Personal
+2020,23,178235,Online Fraud,Kolkata,Health
+2020,2,99511,Hacking,Lucknow,Social Media
+2022,14,460651,Ransomware,Jaipur,E-commerce
+2023,21,274797,Hacking,Pune,Personal
+2021,8,160033,Ransomware,Hyderabad,Personal
+2019,8,82941,Identity Theft,Mumbai,Health
+2022,19,206209,Ransomware,Kolkata,E-commerce
+2023,7,296806,Data Breach,Ahmedabad,Corporate
+2022,19,99818,Malware,Bangalore,Government
+2024,6,450662,Hacking,Kolkata,Corporate
+2023,6,153360,Phishing,Chennai,E-commerce
+2023,3,254627,Data Breach,Ahmedabad,Educational
+2021,7,96081,Identity Theft,Hyderabad,Social Media
+2023,19,37877,Malware,Chennai,Health
+2022,8,374706,Online Fraud,Kolkata,Corporate
+2023,10,409529,Data Breach,Mumbai,Personal
+2021,20,212957,Hacking,Mumbai,Health
+2021,15,73715,Cyber Bullying,Hyderabad,Financial
+2024,15,142398,Cyber Bullying,Delhi,E-commerce
+2022,1,111091,Phishing,Lucknow,Social Media
+2020,20,133632,Ransomware,Bangalore,Corporate
+2020,7,342292,Phishing,Delhi,Health
+2023,27,84186,Cyber Bullying,Mumbai,Social Media
+2024,4,420961,Online Fraud,Mumbai,Corporate
+2019,6,163962,Identity Theft,Pune,Health
+2023,25,152094,Identity Theft,Chennai,Personal
+2024,1,386773,Hacking,Kolkata,Financial
+2022,5,446795,Identity Theft,Bangalore,Financial
+2022,27,71316,Hacking,Hyderabad,Educational
+2022,23,478063,Data Breach,Kolkata,Health
+2022,1,29380,Hacking,Pune,Corporate
+2022,4,111198,Data Breach,Mumbai,Financial
+2024,22,265500,Hacking,Hyderabad,E-commerce
+2024,2,71326,Cyber Bullying,Mumbai,Financial
+2021,10,355591,Cyber Bullying,Bangalore,Government
+2020,5,115994,Ransomware,Chennai,Government
+2022,27,221971,Data Breach,Kolkata,Financial
+2019,10,283193,Malware,Kolkata,Health
+2024,1,469933,Data Breach,Delhi,Educational
+2019,22,368505,Hacking,Hyderabad,Financial
+2019,6,279226,Hacking,Lucknow,Personal
+2019,13,263805,Malware,Pune,Social Media
+2021,15,169484,Phishing,Lucknow,Corporate
+2024,4,266064,Hacking,Delhi,Educational
+2019,13,485410,Ransomware,Bangalore,Personal
+2022,24,246378,Identity Theft,Pune,Educational
+2023,20,454531,Identity Theft,Chennai,Personal
+2019,24,342705,Online Fraud,Lucknow,Corporate
+2021,15,272090,Online Fraud,Chennai,Corporate
+2024,8,226314,Identity Theft,Lucknow,Government
+2021,5,439716,Identity Theft,Chennai,Health
+2019,15,236612,Cyber Bullying,Lucknow,Personal
+2024,4,279453,Ransomware,Chennai,Social Media
+2023,12,56230,Malware,Delhi,Government
+2019,13,374966,Online Fraud,Ahmedabad,Personal
+2021,2,492872,Cyber Bullying,Pune,Government
+2020,27,424243,Cyber Bullying,Hyderabad,Corporate
+2022,19,466757,Malware,Bangalore,Educational
+2021,19,375484,Cyber Bullying,Jaipur,E-commerce
+2024,4,60321,Data Breach,Mumbai,Government
+2019,4,133028,Ransomware,Hyderabad,Personal
+2022,26,232447,Identity Theft,Mumbai,Personal
+2019,11,337275,Hacking,Pune,E-commerce
+2024,27,442124,Malware,Hyderabad,Health
+2019,5,472555,Identity Theft,Chennai,Social Media
+2020,20,289107,Identity Theft,Chennai,Corporate
+2022,11,102757,Phishing,Jaipur,Personal
+2022,10,433659,Data Breach,Mumbai,Financial
+2024,8,362403,Malware,Bangalore,Educational
+2020,6,302207,Cyber Bullying,Pune,Government
+2021,6,377369,Hacking,Chennai,Health
+2019,8,379544,Malware,Ahmedabad,Social Media
+2023,23,343962,Cyber Bullying,Delhi,E-commerce
+2019,15,267847,Identity Theft,Delhi,Educational
+2019,26,197200,Hacking,Lucknow,Corporate
+2021,14,73099,Cyber Bullying,Bangalore,Health
+2019,11,420065,Ransomware,Delhi,Social Media
+2020,12,163932,Cyber Bullying,Lucknow,Government
+2020,26,32585,Phishing,Mumbai,Government
+2022,13,416231,Data Breach,Chennai,E-commerce
+2024,8,471755,Identity Theft,Chennai,Financial
+2023,18,44585,Cyber Bullying,Ahmedabad,E-commerce
+2019,25,290102,Data Breach,Hyderabad,Corporate
+2019,1,289161,Online Fraud,Delhi,Health
+2021,15,470923,Online Fraud,Mumbai,Health
+2024,8,387821,Data Breach,Kolkata,Personal
+2020,28,439566,Data Breach,Delhi,Financial
+2023,11,406417,Phishing,Bangalore,Financial
+2022,12,292570,Ransomware,Hyderabad,Health
+2020,12,280922,Identity Theft,Delhi,Health
+2024,4,177313,Malware,Mumbai,Educational
+2022,16,43229,Phishing,Delhi,Social Media
+2021,4,87652,Ransomware,Bangalore,Educational
+2021,5,391411,Data Breach,Kolkata,Educational
+2019,24,250474,Malware,Pune,Financial
+2024,5,180436,Data Breach,Jaipur,Personal
+2023,8,493049,Data Breach,Kolkata,Government
+2022,10,389647,Online Fraud,Lucknow,Educational
+2020,17,261116,Online Fraud,Delhi,Personal
+2024,28,348022,Malware,Chennai,E-commerce
+2024,26,320200,Phishing,Ahmedabad,Corporate
+2021,9,421706,Online Fraud,Chennai,Educational
+2019,22,20975,Identity Theft,Kolkata,E-commerce
+2019,19,158795,Data Breach,Chennai,Government
+2022,14,417495,Hacking,Mumbai,Corporate
+2021,8,210373,Cyber Bullying,Chennai,Corporate
+2024,9,405777,Malware,Hyderabad,Government
+2023,22,198133,Malware,Pune,Educational
+2021,11,351541,Online Fraud,Delhi,Financial
+2022,23,181225,Phishing,Chennai,Government
+2022,1,296286,Data Breach,Bangalore,Government
+2021,14,290060,Identity Theft,Pune,Government
+2022,5,65324,Phishing,Pune,Corporate
+2021,21,177037,Ransomware,Chennai,Social Media
+2020,26,389076,Ransomware,Pune,Personal
+2021,14,136720,Hacking,Ahmedabad,E-commerce
+2021,4,167205,Online Fraud,Chennai,Financial
+2022,22,444893,Online Fraud,Mumbai,Educational
+2022,23,97059,Online Fraud,Kolkata,Educational
+2019,25,488804,Hacking,Hyderabad,E-commerce
+2019,1,494166,Ransomware,Jaipur,Personal
+2020,22,99317,Phishing,Lucknow,Government
+2019,23,202207,Hacking,Pune,Social Media
+2021,19,298190,Hacking,Mumbai,Financial
+2022,8,441280,Phishing,Delhi,Educational
+2019,15,102459,Online Fraud,Delhi,E-commerce
+2019,21,238697,Identity Theft,Lucknow,Health
+2020,15,201422,Phishing,Hyderabad,Social Media
+2024,9,309037,Ransomware,Pune,E-commerce
+2020,21,102520,Malware,Ahmedabad,Social Media
+2021,9,388962,Data Breach,Lucknow,Educational
+2022,10,62272,Malware,Hyderabad,Government
+2020,20,224224,Cyber Bullying,Pune,Health
+2019,25,330793,Cyber Bullying,Mumbai,Personal
+2022,21,327818,Hacking,Kolkata,Financial
+2022,26,145832,Data Breach,Ahmedabad,Personal
+2019,9,153999,Malware,Jaipur,Personal
+2020,3,349619,Identity Theft,Delhi,E-commerce
+2019,20,62367,Online Fraud,Bangalore,Social Media
+2024,25,230027,Ransomware,Mumbai,Financial
+2022,26,406804,Cyber Bullying,Delhi,Financial
+2023,11,384894,Identity Theft,Chennai,Educational
+2023,6,233750,Ransomware,Bangalore,Educational
+2021,2,236806,Ransomware,Delhi,Financial
+2019,7,381298,Online Fraud,Hyderabad,Health
+2019,18,184305,Data Breach,Ahmedabad,Corporate
+2021,27,45738,Hacking,Delhi,Educational
+2021,2,34397,Malware,Jaipur,Corporate
+2021,27,345333,Online Fraud,Kolkata,E-commerce
+2022,17,339511,Identity Theft,Hyderabad,Health
+2024,11,203332,Hacking,Mumbai,Financial
+2019,27,383729,Identity Theft,Mumbai,Health
+2022,12,339763,Hacking,Mumbai,Educational
+2021,27,112453,Data Breach,Mumbai,Personal
+2019,19,20816,Cyber Bullying,Kolkata,E-commerce
+2022,22,436456,Identity Theft,Delhi,Financial
+2024,24,400492,Online Fraud,Pune,Government
+2022,25,246011,Hacking,Delhi,E-commerce
+2024,7,498415,Hacking,Chennai,Social Media
+2021,20,342674,Ransomware,Ahmedabad,Corporate
+2024,6,417715,Ransomware,Bangalore,Health
+2019,21,482792,Phishing,Pune,Financial
+2021,24,372000,Identity Theft,Pune,E-commerce
+2019,1,214567,Ransomware,Delhi,Health
+2023,17,72635,Phishing,Pune,Financial
+2020,11,370947,Cyber Bullying,Lucknow,Educational
+2024,22,217184,Cyber Bullying,Lucknow,E-commerce
+2020,26,299090,Ransomware,Chennai,Educational
+2020,28,318348,Identity Theft,Bangalore,E-commerce
+2024,18,183958,Hacking,Jaipur,Educational
+2021,21,465868,Malware,Kolkata,Social Media
+2023,17,278707,Data Breach,Delhi,Health
+2019,7,93324,Identity Theft,Kolkata,Government
+2022,17,224536,Data Breach,Jaipur,E-commerce
+2019,20,233944,Online Fraud,Delhi,Social Media
+2022,9,272991,Cyber Bullying,Delhi,E-commerce
+2019,17,27155,Ransomware,Bangalore,Educational
+2024,20,342815,Ransomware,Kolkata,Financial
+2023,22,117891,Data Breach,Lucknow,E-commerce
+2022,22,346454,Hacking,Mumbai,Social Media
+2021,28,461494,Data Breach,Kolkata,Educational
+2019,8,150381,Online Fraud,Ahmedabad,Personal
+2019,17,132691,Hacking,Ahmedabad,Educational
+2022,7,477410,Online Fraud,Delhi,Health
+2021,1,444324,Malware,Mumbai,Government
+2021,13,35707,Cyber Bullying,Hyderabad,Personal
+2024,23,414553,Ransomware,Jaipur,Health
+2024,19,344681,Ransomware,Chennai,Health
+2024,27,198576,Malware,Mumbai,Health
+2024,24,179686,Phishing,Chennai,Financial
+2024,19,223500,Cyber Bullying,Kolkata,Health
+2024,17,354299,Hacking,Kolkata,Financial
+2023,13,263425,Malware,Chennai,Health
+2021,16,159492,Hacking,Jaipur,Corporate
+2024,8,475112,Data Breach,Mumbai,Social Media
+2021,19,171102,Identity Theft,Hyderabad,Personal
+2021,18,395274,Ransomware,Delhi,Corporate
+2020,1,218285,Hacking,Bangalore,Health
+2023,14,339404,Online Fraud,Kolkata,Personal
+2024,19,160476,Hacking,Ahmedabad,Personal
+2019,15,235554,Identity Theft,Jaipur,E-commerce
+2022,18,499500,Cyber Bullying,Bangalore,Government
+2019,2,161928,Ransomware,Hyderabad,Corporate
+2023,22,141272,Data Breach,Pune,Government
+2022,28,327322,Malware,Delhi,Personal
+2023,17,297141,Data Breach,Kolkata,Financial
+2021,18,419827,Identity Theft,Delhi,Personal
+2022,6,120273,Ransomware,Bangalore,Government
+2021,19,173307,Hacking,Delhi,Corporate
+2019,4,249500,Cyber Bullying,Pune,Health
+2019,1,167129,Phishing,Bangalore,E-commerce
+2022,8,133311,Cyber Bullying,Kolkata,E-commerce
+2022,23,235746,Phishing,Mumbai,E-commerce
+2024,7,246546,Online Fraud,Ahmedabad,Health
+2023,3,197733,Cyber Bullying,Bangalore,E-commerce
+2024,10,127945,Ransomware,Lucknow,Corporate
+2023,10,46272,Phishing,Pune,Health
+2024,19,352537,Malware,Bangalore,E-commerce
+2021,14,324356,Ransomware,Bangalore,Health
+2022,2,147470,Malware,Lucknow,Government
+2019,28,121030,Cyber Bullying,Kolkata,Social Media
+2023,1,319647,Malware,Bangalore,Social Media
+2023,23,400854,Phishing,Ahmedabad,Corporate
+2019,23,7570,Ransomware,Delhi,Educational
+2024,28,331929,Hacking,Kolkata,Financial
+2023,18,10110,Identity Theft,Ahmedabad,E-commerce
+2021,7,80141,Phishing,Kolkata,Financial
+2022,8,13115,Phishing,Ahmedabad,Health
+2019,1,40062,Hacking,Pune,Financial
+2022,25,286055,Ransomware,Ahmedabad,Corporate
+2023,23,105061,Ransomware,Chennai,Corporate
+2023,3,295700,Data Breach,Ahmedabad,Personal
+2019,24,472347,Cyber Bullying,Mumbai,Social Media
+2021,23,391479,Malware,Mumbai,E-commerce
+2020,27,2969,Cyber Bullying,Jaipur,Personal
+2019,8,306897,Hacking,Chennai,Financial
+2020,22,477027,Cyber Bullying,Chennai,Educational
+2024,25,398686,Hacking,Delhi,Personal
+2020,15,122863,Ransomware,Chennai,Personal
+2021,5,273369,Malware,Delhi,Corporate
+2024,3,124008,Cyber Bullying,Jaipur,Educational
+2020,19,155268,Phishing,Jaipur,Health
+2024,1,106823,Online Fraud,Pune,Financial
+2020,28,276813,Data Breach,Mumbai,Personal
+2021,15,431596,Identity Theft,Ahmedabad,Educational
+2020,8,387542,Phishing,Ahmedabad,Social Media
+2020,2,111677,Ransomware,Lucknow,E-commerce
+2020,3,247958,Identity Theft,Lucknow,Educational
+2019,24,49320,Online Fraud,Hyderabad,Social Media
+2019,14,441630,Online Fraud,Kolkata,Financial
+2019,24,497758,Malware,Pune,Educational
+2021,14,147649,Identity Theft,Hyderabad,Social Media
+2024,11,126354,Malware,Hyderabad,Educational
+2023,16,89009,Phishing,Bangalore,Educational
+2020,4,258437,Hacking,Bangalore,E-commerce
+2020,20,449625,Hacking,Hyderabad,Social Media
+2021,5,29625,Hacking,Chennai,Social Media
+2020,22,213112,Identity Theft,Kolkata,Personal
+2019,21,287233,Hacking,Pune,Financial
+2023,14,37487,Phishing,Hyderabad,E-commerce
+2022,23,460054,Malware,Ahmedabad,Educational
+2020,16,229071,Identity Theft,Kolkata,Educational
+2019,18,373592,Malware,Bangalore,Personal
+2022,7,489011,Identity Theft,Ahmedabad,Financial
+2023,10,313282,Malware,Bangalore,Corporate
+2022,7,174895,Online Fraud,Bangalore,E-commerce
+2019,1,431424,Malware,Kolkata,Personal
+2024,23,317205,Hacking,Bangalore,Financial
+2024,21,424875,Online Fraud,Jaipur,E-commerce
+2022,19,102376,Malware,Mumbai,Educational
+2021,16,426106,Identity Theft,Jaipur,Financial
+2022,19,342278,Identity Theft,Mumbai,Financial
+2020,4,310199,Data Breach,Lucknow,Health
+2020,28,244341,Identity Theft,Lucknow,Financial
+2024,18,282652,Ransomware,Bangalore,Corporate
+2021,2,436503,Phishing,Pune,Financial
+2019,1,473132,Identity Theft,Pune,Corporate
+2020,15,159056,Online Fraud,Mumbai,Educational
+2024,5,111169,Data Breach,Ahmedabad,Corporate
+2023,20,271269,Identity Theft,Kolkata,E-commerce
+2024,11,37059,Ransomware,Bangalore,Educational
+2020,10,463785,Hacking,Kolkata,Educational
+2020,2,104409,Online Fraud,Jaipur,Corporate
+2024,3,411303,Ransomware,Pune,Social Media
+2019,23,6704,Hacking,Chennai,Personal
+2022,23,454792,Cyber Bullying,Jaipur,Government
+2020,12,205456,Cyber Bullying,Jaipur,Social Media
+2024,20,219200,Online Fraud,Mumbai,Financial
+2024,5,112279,Malware,Delhi,Health
+2021,5,466676,Phishing,Jaipur,Government
+2022,6,159280,Data Breach,Bangalore,Financial
+2023,9,119516,Phishing,Hyderabad,Social Media
+2019,2,479366,Ransomware,Hyderabad,Social Media
+2023,21,198096,Hacking,Bangalore,Financial
+2022,12,434098,Phishing,Delhi,Educational
+2022,3,420139,Hacking,Delhi,Financial
+2022,20,377188,Hacking,Mumbai,Health
+2023,26,233549,Ransomware,Pune,Social Media
+2022,22,30165,Ransomware,Kolkata,Financial
+2024,12,68203,Ransomware,Delhi,Corporate
+2023,24,485965,Phishing,Chennai,Government
+2022,17,267258,Cyber Bullying,Mumbai,Corporate
+2024,10,459181,Ransomware,Lucknow,Health
+2021,24,37321,Data Breach,Ahmedabad,Financial
+2022,27,336441,Phishing,Lucknow,E-commerce
+2023,14,359796,Ransomware,Mumbai,Health
+2020,23,362448,Identity Theft,Jaipur,Educational
+2022,17,246014,Hacking,Kolkata,Corporate
+2020,18,157498,Data Breach,Ahmedabad,Corporate
+2024,19,18772,Ransomware,Lucknow,Personal
+2021,17,366898,Online Fraud,Ahmedabad,Financial
+2019,14,266856,Hacking,Chennai,Educational
+2021,9,395583,Hacking,Chennai,E-commerce
+2022,8,239389,Ransomware,Chennai,Corporate
+2020,2,116142,Cyber Bullying,Mumbai,Corporate
+2020,13,92736,Malware,Kolkata,Educational
+2023,25,52924,Cyber Bullying,Mumbai,Health
+2020,7,4726,Ransomware,Hyderabad,Health
+2023,9,352296,Hacking,Jaipur,Financial
+2024,22,28723,Data Breach,Jaipur,Social Media
+2019,22,390113,Online Fraud,Chennai,Personal
+2022,11,235182,Data Breach,Hyderabad,Corporate
+2023,14,363638,Data Breach,Delhi,Social Media
+2019,4,141180,Hacking,Delhi,Social Media
+2020,26,209786,Cyber Bullying,Chennai,Personal
+2020,26,36643,Online Fraud,Lucknow,Social Media
+2019,13,163396,Phishing,Mumbai,Social Media
+2020,2,367040,Identity Theft,Chennai,Health
+2024,23,215432,Hacking,Pune,Health
+2024,5,140999,Ransomware,Ahmedabad,Government
+2019,11,356824,Phishing,Jaipur,E-commerce
+2023,6,359690,Identity Theft,Delhi,Financial
+2023,18,416659,Ransomware,Bangalore,Social Media
+2019,21,80973,Data Breach,Delhi,Government
+2023,10,326593,Malware,Jaipur,E-commerce
+2023,4,110834,Ransomware,Ahmedabad,Government
+2024,9,237386,Online Fraud,Jaipur,Government
+2023,6,470959,Online Fraud,Bangalore,Financial
+2021,2,454449,Malware,Chennai,Financial
+2022,17,288681,Phishing,Hyderabad,Educational
+2020,5,495509,Identity Theft,Bangalore,Personal
+2021,25,340720,Ransomware,Jaipur,Personal
+2023,6,108522,Online Fraud,Jaipur,Educational
+2024,26,23612,Phishing,Pune,Educational
+2019,12,226049,Malware,Pune,Health
+2023,23,269615,Cyber Bullying,Kolkata,E-commerce
+2024,21,167703,Hacking,Pune,Government
+2022,10,241069,Cyber Bullying,Mumbai,Social Media
+2023,22,224131,Cyber Bullying,Hyderabad,Educational
+2019,21,32348,Online Fraud,Ahmedabad,Corporate
+2024,27,196804,Data Breach,Bangalore,Personal
+2024,25,264321,Data Breach,Jaipur,Educational
+2024,6,136832,Malware,Kolkata,Corporate
+2022,27,295923,Ransomware,Kolkata,Corporate
+2023,8,284780,Data Breach,Ahmedabad,Corporate
+2022,2,82889,Cyber Bullying,Hyderabad,Health
+2020,12,54551,Data Breach,Bangalore,Health
+2020,13,405772,Cyber Bullying,Delhi,Social Media
+2023,25,421814,Identity Theft,Pune,Social Media
+2022,21,143635,Online Fraud,Chennai,Corporate
+2019,7,47819,Online Fraud,Kolkata,E-commerce
+2024,10,336914,Ransomware,Pune,Health
+2024,13,485271,Data Breach,Pune,Government
+2023,17,421182,Data Breach,Mumbai,Corporate
+2020,26,213781,Hacking,Hyderabad,Government
+2020,21,454105,Phishing,Chennai,Government
+2024,28,159059,Identity Theft,Delhi,Corporate
+2023,26,341858,Online Fraud,Jaipur,Personal
+2022,14,499090,Identity Theft,Mumbai,E-commerce
+2020,2,190420,Online Fraud,Pune,Corporate
+2022,28,25596,Identity Theft,Pune,Social Media
+2020,22,427390,Malware,Lucknow,Corporate
+2020,11,327250,Cyber Bullying,Chennai,Health
+2021,1,464183,Online Fraud,Chennai,Corporate
+2020,19,60182,Identity Theft,Lucknow,Personal
+2019,21,487516,Data Breach,Chennai,Health
+2023,4,350307,Phishing,Pune,Social Media
+2023,19,302454,Malware,Kolkata,Financial
+2022,26,319232,Malware,Bangalore,Financial
+2020,21,129803,Phishing,Pune,Government
+2019,11,140978,Identity Theft,Mumbai,E-commerce
+2022,8,300058,Data Breach,Hyderabad,Government
+2021,11,373494,Ransomware,Lucknow,Personal
+2022,4,46379,Phishing,Delhi,Educational
+2022,17,472828,Identity Theft,Jaipur,Social Media
+2020,27,246900,Phishing,Delhi,E-commerce
+2021,7,259517,Phishing,Pune,Social Media
+2022,8,431866,Online Fraud,Mumbai,Financial
+2019,3,441097,Identity Theft,Pune,Government
+2019,22,309557,Ransomware,Hyderabad,Social Media
+2023,2,138084,Cyber Bullying,Kolkata,Financial
+2021,23,182187,Online Fraud,Jaipur,Personal
+2021,15,270295,Phishing,Hyderabad,Personal
+2023,24,58716,Cyber Bullying,Lucknow,Educational
+2022,22,356891,Hacking,Lucknow,Social Media
+2021,22,224725,Cyber Bullying,Pune,Educational
+2019,5,168450,Phishing,Mumbai,Health
+2019,24,174724,Phishing,Hyderabad,E-commerce
+2020,1,204502,Data Breach,Ahmedabad,Social Media
+2021,26,145539,Identity Theft,Mumbai,Personal
+2022,4,425226,Identity Theft,Kolkata,Government
+2023,15,122999,Online Fraud,Lucknow,Financial
+2023,20,115793,Ransomware,Pune,Corporate
+2022,19,448907,Online Fraud,Chennai,Educational
+2024,3,458373,Malware,Lucknow,Corporate
+2020,20,371321,Phishing,Jaipur,Social Media
+2023,11,13289,Cyber Bullying,Bangalore,Government
+2021,17,177048,Hacking,Chennai,Educational
+2020,27,175668,Phishing,Pune,Corporate
+2021,13,417387,Phishing,Ahmedabad,E-commerce
+2019,11,232513,Online Fraud,Chennai,Government
+2020,2,258368,Hacking,Jaipur,Financial
+2023,9,87365,Hacking,Mumbai,E-commerce
+2020,26,231662,Hacking,Ahmedabad,Government
+2020,2,377158,Online Fraud,Lucknow,Health
+2020,21,176211,Phishing,Ahmedabad,Educational
+2024,9,180785,Online Fraud,Hyderabad,Personal
+2020,9,423950,Identity Theft,Jaipur,Financial
+2021,8,73588,Identity Theft,Chennai,Social Media
+2019,17,64646,Online Fraud,Hyderabad,E-commerce
+2022,1,266798,Hacking,Ahmedabad,E-commerce
+2020,25,483238,Data Breach,Hyderabad,Corporate
+2023,11,281887,Phishing,Delhi,Educational
+2020,8,311512,Online Fraud,Jaipur,Social Media
+2023,10,222097,Online Fraud,Kolkata,Personal
+2021,25,206244,Online Fraud,Mumbai,Government
+2023,7,400657,Data Breach,Ahmedabad,Personal
+2022,3,120735,Data Breach,Jaipur,Educational
+2019,3,156683,Malware,Kolkata,Educational
+2023,18,383035,Identity Theft,Kolkata,Health
+2023,5,108971,Cyber Bullying,Pune,Health
+2019,12,13149,Hacking,Hyderabad,Personal
+2022,12,363246,Ransomware,Kolkata,Government
+2020,19,322333,Data Breach,Delhi,Personal
+2023,6,239976,Cyber Bullying,Jaipur,Educational
+2019,2,415891,Data Breach,Bangalore,Educational
+2021,12,334175,Hacking,Bangalore,Corporate
+2019,19,43668,Ransomware,Ahmedabad,Health
+2021,5,407889,Malware,Lucknow,Social Media
+2022,12,470882,Online Fraud,Hyderabad,Social Media
+2020,27,89204,Malware,Lucknow,Social Media
+2019,27,212830,Data Breach,Kolkata,Corporate
+2024,17,197501,Malware,Jaipur,Financial
+2023,17,417885,Cyber Bullying,Ahmedabad,Social Media
+2022,10,166140,Phishing,Chennai,Educational
+2019,25,220861,Data Breach,Kolkata,Corporate
+2023,23,141507,Data Breach,Hyderabad,Personal
+2019,17,226160,Cyber Bullying,Bangalore,Health
+2021,15,184321,Identity Theft,Pune,Health
+2019,12,38384,Ransomware,Jaipur,Government
+2024,16,82929,Online Fraud,Mumbai,Personal
+2019,24,391103,Cyber Bullying,Lucknow,Government
+2019,19,77153,Ransomware,Ahmedabad,Corporate
+2024,8,236128,Hacking,Lucknow,E-commerce
+2022,21,76388,Ransomware,Jaipur,Social Media
+2019,17,32401,Hacking,Lucknow,Financial
+2024,23,203903,Cyber Bullying,Jaipur,Personal
+2023,5,120503,Data Breach,Lucknow,Personal
+2021,22,233601,Data Breach,Delhi,Personal
+2021,16,128834,Identity Theft,Chennai,Government
+2019,6,35084,Cyber Bullying,Kolkata,Corporate
+2022,8,252459,Hacking,Kolkata,Personal
+2022,25,111641,Ransomware,Hyderabad,E-commerce
+2023,18,106111,Ransomware,Mumbai,Personal
+2019,25,450042,Hacking,Mumbai,Health
+2021,12,430667,Malware,Hyderabad,Social Media
+2022,15,139299,Identity Theft,Pune,Financial
+2019,27,163982,Phishing,Kolkata,Social Media
+2022,26,299185,Data Breach,Pune,Health
+2024,9,352064,Online Fraud,Jaipur,Health
+2022,13,328825,Ransomware,Jaipur,Financial
+2021,26,235386,Online Fraud,Bangalore,E-commerce
+2020,15,344715,Phishing,Lucknow,Corporate
+2023,10,197553,Cyber Bullying,Mumbai,Health
+2023,16,462792,Online Fraud,Bangalore,Corporate
+2021,7,261337,Phishing,Chennai,Health
+2022,17,128556,Data Breach,Hyderabad,Educational
+2019,23,196246,Hacking,Hyderabad,Financial
+2022,26,27160,Malware,Jaipur,Health
+2021,21,247242,Data Breach,Kolkata,Educational
+2023,22,18633,Ransomware,Pune,Social Media
+2022,26,489096,Phishing,Mumbai,Government
+2023,7,280158,Online Fraud,Bangalore,Educational
+2019,14,343676,Ransomware,Pune,Personal
+2023,15,50104,Malware,Bangalore,Health
+2023,21,435837,Hacking,Lucknow,Educational
+2020,7,340375,Cyber Bullying,Chennai,Corporate
+2020,9,69388,Ransomware,Chennai,Government
+2024,19,17014,Cyber Bullying,Pune,E-commerce
+2020,16,93578,Phishing,Pune,Health
+2023,8,165827,Malware,Pune,Personal
+2021,18,41390,Online Fraud,Bangalore,E-commerce
+2023,27,286855,Malware,Lucknow,Educational
+2021,23,92658,Malware,Delhi,E-commerce
+2021,18,58993,Identity Theft,Pune,E-commerce
+2020,20,206768,Malware,Kolkata,Government
+2022,7,159285,Malware,Mumbai,Social Media
+2019,3,247860,Data Breach,Mumbai,E-commerce
+2020,18,499172,Ransomware,Bangalore,E-commerce
+2020,27,452000,Online Fraud,Pune,Health
+2022,10,270565,Data Breach,Jaipur,Social Media
+2019,7,219008,Data Breach,Hyderabad,Government
+2023,17,493289,Ransomware,Delhi,Personal
+2024,14,18727,Ransomware,Kolkata,Educational
+2024,24,375562,Phishing,Lucknow,Government
+2023,3,5358,Ransomware,Jaipur,Government
+2020,12,328252,Identity Theft,Chennai,Financial
+2019,28,258681,Identity Theft,Jaipur,Government
+2020,13,95018,Data Breach,Bangalore,Social Media
+2021,2,387601,Cyber Bullying,Delhi,Financial
+2020,3,426333,Phishing,Ahmedabad,Educational
+2020,5,482916,Cyber Bullying,Ahmedabad,E-commerce
+2023,11,295054,Cyber Bullying,Pune,Health
+2023,8,127888,Data Breach,Pune,Health
+2023,26,230104,Hacking,Bangalore,Educational
+2024,23,318898,Data Breach,Lucknow,Educational
+2021,23,194510,Online Fraud,Pune,Social Media
+2023,12,110847,Online Fraud,Hyderabad,Corporate
+2019,7,423587,Ransomware,Delhi,E-commerce
+2024,15,445717,Ransomware,Bangalore,Educational
+2022,24,455162,Hacking,Mumbai,Government
+2019,17,301611,Ransomware,Chennai,Social Media
+2019,4,411841,Online Fraud,Bangalore,Health
+2023,22,297037,Cyber Bullying,Bangalore,Personal
+2022,25,77329,Data Breach,Ahmedabad,Social Media
+2022,13,32007,Malware,Kolkata,Health
+2024,18,485518,Identity Theft,Lucknow,Financial
+2022,1,171604,Malware,Kolkata,Social Media
+2021,16,317397,Malware,Hyderabad,Health
+2023,13,13323,Online Fraud,Mumbai,Corporate
+2022,10,374479,Malware,Ahmedabad,Social Media
+2024,12,113356,Data Breach,Mumbai,Social Media
+2021,2,111944,Hacking,Hyderabad,E-commerce
+2020,23,205451,Phishing,Kolkata,Educational
+2020,3,408426,Ransomware,Bangalore,E-commerce
+2021,10,279600,Phishing,Pune,Social Media
+2024,2,32367,Cyber Bullying,Pune,Educational
+2021,27,55624,Data Breach,Jaipur,Health
+2023,23,404322,Data Breach,Chennai,Personal
+2023,13,235565,Identity Theft,Lucknow,Personal
+2020,13,69008,Data Breach,Hyderabad,Social Media
+2022,18,389070,Ransomware,Chennai,Corporate
+2024,3,378539,Data Breach,Lucknow,Financial
+2020,27,117492,Malware,Chennai,Health
+2022,7,73240,Identity Theft,Kolkata,Educational
+2022,14,327459,Ransomware,Lucknow,Social Media
+2023,20,463465,Hacking,Kolkata,Health
+2019,17,202659,Hacking,Bangalore,Social Media
+2019,21,273900,Hacking,Ahmedabad,Corporate
+2021,12,462227,Hacking,Kolkata,Government
+2023,25,299522,Malware,Pune,Government
+2022,16,136327,Data Breach,Chennai,Corporate
+2024,24,408700,Phishing,Jaipur,Educational
+2019,12,126703,Ransomware,Delhi,E-commerce
+2022,15,319693,Malware,Lucknow,Corporate
+2019,25,166575,Hacking,Hyderabad,Social Media
+2019,10,336938,Cyber Bullying,Jaipur,Educational
+2019,25,494948,Data Breach,Pune,Personal
+2024,7,308257,Phishing,Kolkata,Corporate
+2023,20,499946,Cyber Bullying,Ahmedabad,Educational
+2024,5,75069,Identity Theft,Bangalore,Corporate
+2020,1,230189,Cyber Bullying,Delhi,Corporate
+2022,17,399465,Identity Theft,Mumbai,E-commerce
+2023,3,252051,Identity Theft,Jaipur,E-commerce
+2023,13,413417,Hacking,Ahmedabad,Social Media
+2023,14,126541,Identity Theft,Mumbai,Educational
+2023,24,190648,Online Fraud,Delhi,Educational
+2024,18,257353,Ransomware,Hyderabad,Financial
+2023,4,272830,Ransomware,Hyderabad,Corporate
+2021,18,316507,Hacking,Chennai,Government
+2022,5,360687,Online Fraud,Delhi,Corporate
+2023,25,132733,Cyber Bullying,Delhi,Corporate
+2022,16,176915,Malware,Mumbai,Educational
+2021,1,96673,Cyber Bullying,Ahmedabad,Corporate
+2021,21,455179,Data Breach,Lucknow,Health
+2022,14,43828,Malware,Mumbai,Corporate
+2019,15,311748,Identity Theft,Bangalore,Health
+2020,9,273670,Phishing,Hyderabad,E-commerce
+2019,15,332054,Malware,Hyderabad,Government
+2019,17,26592,Phishing,Chennai,Social Media
+2024,25,292126,Ransomware,Bangalore,Educational
+2019,24,263351,Phishing,Hyderabad,Corporate
+2023,4,233041,Ransomware,Mumbai,Health
+2024,12,351877,Online Fraud,Bangalore,Health
+2024,27,231008,Online Fraud,Mumbai,E-commerce
+2021,26,125982,Hacking,Lucknow,Health
+2019,5,257911,Hacking,Lucknow,Social Media
+2021,5,69619,Identity Theft,Hyderabad,Personal
+2022,11,161400,Malware,Hyderabad,Financial
+2020,28,309623,Identity Theft,Ahmedabad,Social Media
+2024,6,152175,Ransomware,Lucknow,Government
+2022,7,171963,Identity Theft,Jaipur,Social Media
+2022,24,142826,Phishing,Jaipur,E-commerce
+2023,14,232055,Ransomware,Chennai,E-commerce
+2020,24,344581,Hacking,Lucknow,Social Media
+2022,11,99540,Online Fraud,Mumbai,Corporate
+2022,13,336126,Hacking,Mumbai,Personal
+2020,2,103747,Malware,Pune,Corporate
+2020,25,187994,Ransomware,Bangalore,Corporate
+2022,7,311375,Ransomware,Kolkata,Social Media
+2020,20,30301,Phishing,Jaipur,Educational
+2022,4,223724,Malware,Hyderabad,Educational
+2022,27,194783,Online Fraud,Chennai,Educational
+2023,8,173395,Cyber Bullying,Kolkata,Personal
+2019,20,19752,Ransomware,Delhi,Corporate
+2022,22,492128,Ransomware,Chennai,Financial
+2021,21,214277,Phishing,Delhi,Government
+2024,19,361596,Identity Theft,Lucknow,Educational
+2019,13,145467,Data Breach,Delhi,Educational
+2019,14,218029,Online Fraud,Delhi,E-commerce
+2019,10,384381,Hacking,Ahmedabad,Corporate
+2023,11,57273,Malware,Ahmedabad,Corporate
+2022,2,259503,Ransomware,Ahmedabad,Personal
+2023,25,92878,Ransomware,Lucknow,Personal
+2022,26,268039,Hacking,Kolkata,Educational
+2023,9,120968,Online Fraud,Chennai,Corporate
+2023,17,378844,Data Breach,Chennai,Financial
+2024,26,77559,Identity Theft,Hyderabad,Government
+2021,3,11699,Ransomware,Ahmedabad,Social Media
+2023,24,197133,Data Breach,Lucknow,Corporate
+2024,6,10715,Online Fraud,Hyderabad,E-commerce
+2020,5,20169,Hacking,Bangalore,Social Media
+2021,5,119413,Phishing,Hyderabad,Corporate
+2023,22,410379,Identity Theft,Kolkata,Health
+2019,15,120264,Malware,Jaipur,Personal
+2020,23,268926,Ransomware,Delhi,E-commerce
+2020,17,220249,Online Fraud,Ahmedabad,Government
+2024,9,125481,Phishing,Jaipur,Educational
+2020,3,216400,Malware,Hyderabad,E-commerce
+2021,20,36585,Cyber Bullying,Lucknow,Corporate
+2023,26,293826,Online Fraud,Delhi,Educational
+2023,17,179936,Online Fraud,Chennai,Corporate
+2019,27,393136,Malware,Mumbai,Educational
+2024,10,347560,Phishing,Delhi,Government
+2019,3,449330,Cyber Bullying,Kolkata,Personal
+2020,18,390954,Data Breach,Kolkata,Government
+2019,18,39067,Data Breach,Hyderabad,Health
+2021,17,174757,Hacking,Bangalore,Financial
+2023,24,254334,Phishing,Kolkata,Personal
+2020,3,19073,Identity Theft,Kolkata,Government
+2019,3,37035,Ransomware,Lucknow,Health
+2024,6,197049,Malware,Hyderabad,Financial
+2021,13,234782,Hacking,Delhi,Health
+2021,24,91373,Cyber Bullying,Bangalore,Corporate
+2019,15,346506,Malware,Jaipur,Social Media
+2023,25,91517,Malware,Mumbai,Corporate
+2019,9,66450,Phishing,Ahmedabad,Educational
+2020,4,11382,Ransomware,Chennai,Personal
+2019,14,398653,Identity Theft,Kolkata,Corporate
+2021,5,203043,Data Breach,Hyderabad,E-commerce
+2019,2,458828,Online Fraud,Ahmedabad,Health
+2023,11,222427,Online Fraud,Chennai,Personal
+2024,9,62929,Malware,Chennai,Social Media
+2022,24,234483,Data Breach,Jaipur,E-commerce
+2019,3,229590,Data Breach,Jaipur,Corporate
+2023,27,362008,Ransomware,Jaipur,Educational
+2023,28,144401,Cyber Bullying,Pune,Government
+2024,9,257677,Cyber Bullying,Pune,Educational
+2021,3,288313,Hacking,Chennai,E-commerce
+2023,25,88468,Phishing,Jaipur,Financial
+2023,2,35594,Ransomware,Lucknow,Corporate
+2023,12,471173,Ransomware,Kolkata,E-commerce
+2023,10,192703,Phishing,Ahmedabad,Financial
+2020,9,46033,Data Breach,Ahmedabad,Financial
+2020,15,64133,Cyber Bullying,Pune,Health
+2021,8,467381,Cyber Bullying,Chennai,Personal
+2019,25,74861,Data Breach,Hyderabad,Health
+2023,5,184362,Cyber Bullying,Delhi,Corporate
+2024,11,488247,Malware,Delhi,Financial
+2019,27,294894,Ransomware,Pune,Social Media
+2024,2,489371,Online Fraud,Hyderabad,E-commerce
+2019,24,41461,Phishing,Pune,Government
+2021,28,468016,Cyber Bullying,Delhi,Financial
+2023,15,79222,Hacking,Hyderabad,E-commerce
+2023,6,113020,Cyber Bullying,Jaipur,Social Media
+2022,8,287370,Cyber Bullying,Chennai,Government
+2024,27,269865,Identity Theft,Ahmedabad,Health
+2019,5,450370,Malware,Lucknow,Health
+2019,16,21609,Phishing,Bangalore,Personal
+2020,26,446346,Identity Theft,Chennai,E-commerce
+2022,18,131513,Identity Theft,Jaipur,Financial
+2020,6,204981,Hacking,Delhi,Educational
+2020,5,105211,Ransomware,Jaipur,Health
+2020,28,187321,Hacking,Pune,Health
+2024,16,443111,Ransomware,Hyderabad,Personal
+2024,13,488689,Ransomware,Ahmedabad,Government
+2021,28,399872,Phishing,Kolkata,Personal
+2021,5,388009,Cyber Bullying,Pune,Social Media
+2020,13,337664,Phishing,Chennai,Financial
+2022,17,457956,Malware,Pune,E-commerce
+2019,18,327453,Ransomware,Chennai,Corporate
+2024,8,30984,Identity Theft,Kolkata,Corporate
+2022,13,119947,Cyber Bullying,Mumbai,E-commerce
+2023,19,205894,Online Fraud,Ahmedabad,Government
+2024,26,6901,Malware,Lucknow,Social Media
+2024,3,163624,Phishing,Lucknow,Health
+2021,24,223317,Hacking,Bangalore,Government
+2019,8,294199,Malware,Jaipur,Health
+2019,2,169757,Malware,Mumbai,Health
+2023,8,468181,Cyber Bullying,Lucknow,Corporate
+2023,27,146788,Malware,Pune,Government
+2024,13,115099,Malware,Jaipur,Social Media
+2020,13,12138,Online Fraud,Mumbai,Personal
+2021,1,167370,Data Breach,Hyderabad,Health
+2021,6,445328,Hacking,Hyderabad,Educational
+2024,24,24429,Hacking,Jaipur,Educational
+2022,19,51200,Hacking,Chennai,Personal
+2020,16,203380,Ransomware,Chennai,Educational
+2024,8,442460,Identity Theft,Pune,Financial
+2020,28,249289,Data Breach,Mumbai,Health
+2020,1,246127,Hacking,Mumbai,Personal
+2020,27,364412,Malware,Jaipur,Government
+2024,27,237513,Malware,Delhi,Health
+2021,16,18347,Hacking,Hyderabad,Personal
+2021,9,148992,Cyber Bullying,Mumbai,Corporate
+2020,13,32822,Hacking,Jaipur,Social Media
+2022,11,440875,Malware,Kolkata,Government
+2019,13,41108,Ransomware,Bangalore,Social Media
+2024,25,392099,Phishing,Kolkata,Corporate
+2019,21,483315,Phishing,Ahmedabad,Health
+2022,10,8967,Data Breach,Pune,Government
+2024,4,373863,Data Breach,Mumbai,Social Media
+2020,27,12871,Hacking,Ahmedabad,Educational
+2021,6,226371,Online Fraud,Lucknow,Social Media
+2019,28,209524,Hacking,Ahmedabad,Personal
+2023,7,206342,Cyber Bullying,Jaipur,Health
+2023,5,165685,Hacking,Mumbai,Financial
+2022,11,29179,Data Breach,Bangalore,Social Media
+2020,13,252537,Phishing,Jaipur,Government
+2019,26,184260,Malware,Jaipur,Government
+2020,25,318243,Hacking,Pune,E-commerce
+2019,19,36262,Malware,Pune,Social Media
+2022,23,341357,Malware,Hyderabad,Health
+2022,10,380551,Online Fraud,Hyderabad,Health
+2023,10,412484,Malware,Chennai,Corporate
+2020,11,472082,Phishing,Delhi,E-commerce
+2024,21,349413,Ransomware,Mumbai,Social Media
+2023,7,61545,Ransomware,Mumbai,Educational
+2020,18,235555,Identity Theft,Ahmedabad,Corporate
+2023,4,224894,Cyber Bullying,Mumbai,E-commerce
+2024,2,204218,Hacking,Mumbai,Social Media
+2021,14,466182,Cyber Bullying,Delhi,Social Media
+2021,13,303066,Phishing,Lucknow,Corporate
+2021,12,473580,Malware,Hyderabad,Educational
+2021,7,43913,Ransomware,Hyderabad,E-commerce
+2019,2,360177,Cyber Bullying,Bangalore,Social Media
+2021,13,367936,Phishing,Mumbai,Social Media
+2024,14,251497,Ransomware,Delhi,E-commerce
+2022,27,449893,Malware,Hyderabad,Financial
+2022,17,496370,Cyber Bullying,Delhi,Corporate
+2019,9,444057,Ransomware,Kolkata,Corporate
+2021,17,178404,Hacking,Lucknow,Government
+2021,8,486278,Data Breach,Mumbai,Educational
+2021,2,383007,Hacking,Bangalore,Personal
+2023,28,489910,Identity Theft,Ahmedabad,Financial
+2020,24,157104,Identity Theft,Hyderabad,E-commerce
+2023,13,169918,Ransomware,Kolkata,E-commerce
+2020,3,191546,Data Breach,Delhi,E-commerce
+2021,16,45936,Phishing,Pune,Financial
+2021,6,161866,Hacking,Jaipur,Social Media
+2023,19,193660,Phishing,Mumbai,E-commerce
+2023,7,203056,Data Breach,Mumbai,E-commerce
+2020,10,444547,Phishing,Kolkata,Educational
+2022,9,226469,Data Breach,Delhi,Health
+2020,2,29141,Ransomware,Chennai,Health
+2023,28,403290,Phishing,Mumbai,Government
+2024,28,138478,Hacking,Chennai,Government
+2023,15,98359,Malware,Pune,E-commerce
+2024,5,386423,Identity Theft,Kolkata,Educational
+2019,22,155363,Malware,Delhi,E-commerce
+2023,4,42568,Phishing,Delhi,Government
+2019,20,98539,Malware,Lucknow,Financial
+2022,4,47851,Hacking,Jaipur,Financial
+2020,18,494158,Hacking,Hyderabad,Social Media
+2024,4,55823,Phishing,Hyderabad,Personal
+2020,27,24312,Ransomware,Ahmedabad,Health
+2019,17,437324,Malware,Bangalore,Educational
+2024,12,461134,Ransomware,Kolkata,Corporate
+2020,22,428387,Ransomware,Pune,Health
+2023,17,435995,Data Breach,Delhi,Corporate
+2021,10,200900,Online Fraud,Jaipur,Personal
+2019,22,361867,Phishing,Chennai,Personal
+2020,1,275555,Identity Theft,Kolkata,E-commerce
+2019,22,497037,Hacking,Ahmedabad,Government
+2019,26,250062,Hacking,Kolkata,Personal
+2024,24,320153,Phishing,Ahmedabad,Personal
+2024,27,409638,Data Breach,Delhi,Corporate
+2021,18,436684,Cyber Bullying,Bangalore,Government
+2023,18,33371,Cyber Bullying,Ahmedabad,Personal
+2019,14,58022,Cyber Bullying,Delhi,Health
+2020,15,334373,Data Breach,Delhi,Social Media
+2022,12,100071,Identity Theft,Bangalore,Personal
+2019,4,183268,Hacking,Hyderabad,Social Media
+2019,27,474570,Phishing,Kolkata,Government
+2021,3,359918,Data Breach,Mumbai,E-commerce
+2023,20,490626,Hacking,Mumbai,Educational
+2022,12,289859,Ransomware,Chennai,Government
+2024,7,290749,Malware,Chennai,Corporate
+2024,11,100853,Malware,Mumbai,Educational
+2020,1,32174,Data Breach,Pune,Health
+2022,6,404172,Hacking,Mumbai,Financial
+2024,15,498660,Online Fraud,Chennai,Social Media
+2020,15,77373,Identity Theft,Jaipur,Social Media
+2023,19,332396,Cyber Bullying,Chennai,Social Media
+2020,11,194021,Identity Theft,Pune,Government
+2024,26,194718,Identity Theft,Kolkata,Social Media
+2021,23,71017,Data Breach,Mumbai,E-commerce
+2021,26,64037,Ransomware,Bangalore,Social Media
+2021,2,90818,Identity Theft,Jaipur,Corporate
+2024,14,7548,Malware,Delhi,Health
+2021,2,117981,Ransomware,Pune,Social Media
+2022,4,235213,Phishing,Chennai,Social Media
+2023,17,205366,Identity Theft,Bangalore,Educational
+2020,3,155249,Identity Theft,Ahmedabad,Health
+2020,13,287166,Phishing,Hyderabad,Social Media
+2024,9,107297,Identity Theft,Mumbai,Government
+2021,7,137614,Phishing,Hyderabad,Personal
+2021,15,223084,Ransomware,Pune,E-commerce
+2019,23,490536,Malware,Ahmedabad,Government
+2023,11,61428,Phishing,Ahmedabad,Financial
+2022,20,154812,Online Fraud,Ahmedabad,Government
+2020,2,322497,Data Breach,Delhi,Educational
+2019,15,484569,Data Breach,Pune,Educational
+2019,14,114132,Phishing,Kolkata,Social Media
+2024,20,188604,Data Breach,Hyderabad,Government
+2020,22,17052,Identity Theft,Kolkata,Educational
+2024,11,101689,Cyber Bullying,Bangalore,Personal
+2022,27,179148,Cyber Bullying,Lucknow,Health
+2019,3,447636,Data Breach,Jaipur,Government
+2019,17,132743,Ransomware,Jaipur,E-commerce
+2023,12,263307,Hacking,Kolkata,Personal
+2022,24,304568,Ransomware,Lucknow,Social Media
+2019,28,447960,Hacking,Lucknow,Health
+2022,21,464547,Cyber Bullying,Mumbai,E-commerce
+2020,15,404850,Cyber Bullying,Bangalore,Social Media
+2021,16,136870,Phishing,Pune,E-commerce
+2019,5,285564,Malware,Lucknow,Social Media
+2023,27,121575,Online Fraud,Chennai,E-commerce
+2020,20,259230,Ransomware,Jaipur,Health
+2022,6,292444,Identity Theft,Chennai,Personal
+2024,19,353025,Hacking,Bangalore,E-commerce
+2020,25,11749,Data Breach,Lucknow,E-commerce
+2019,5,105131,Identity Theft,Hyderabad,Corporate
+2022,3,157193,Malware,Jaipur,Government
+2021,27,391707,Hacking,Mumbai,Health
+2020,1,300631,Ransomware,Mumbai,Social Media
+2019,26,226019,Phishing,Ahmedabad,Health
+2023,28,427577,Identity Theft,Delhi,Educational
+2024,6,284367,Malware,Lucknow,Social Media
+2022,15,73930,Ransomware,Bangalore,Health
+2020,2,146128,Cyber Bullying,Jaipur,Personal
+2020,3,291524,Cyber Bullying,Delhi,Social Media
+2021,17,289179,Ransomware,Bangalore,Social Media
+2021,25,293764,Ransomware,Kolkata,Health
+2023,24,414093,Ransomware,Lucknow,Social Media
+2024,12,257553,Hacking,Pune,Corporate
+2023,18,449532,Ransomware,Pune,Government
+2019,15,196113,Identity Theft,Lucknow,Social Media
+2019,12,380504,Malware,Ahmedabad,Government
+2023,16,54352,Hacking,Ahmedabad,Health
+2020,26,64440,Ransomware,Mumbai,Financial
+2020,9,288239,Malware_Attacks,Mumbai,Financial
+2020,1,275987,Malware_Attacks,Mumbai,Financial
+2020,17,271723,Ransomware,Mumbai,Financial
+2020,16,27990,Malware_Attacks,Mumbai,Financial
+2020,21,105931,Malware_Attacks,Mumbai,Financial
+2020,17,48172,Phishing,Mumbai,Financial
+2020,6,287053,Others,Mumbai,Financial
+2020,1,39326,Online Fraud,Mumbai,Financial
+2020,22,116765,Ransomware,Mumbai,Financial
+2020,27,59487,Online Fraud,Mumbai,Financial
+2020,18,233189,Phishing,Mumbai,Financial
+2020,24,85611,Phishing,Mumbai,Financial
+2020,15,178914,Phishing,Mumbai,Financial
+2020,3,43403,Phishing,Mumbai,Financial
+2020,6,137072,Others,Mumbai,Financial
+2020,3,124351,Malware_Attacks,Mumbai,Financial
+2020,14,208440,Ransomware,Mumbai,Financial
+2020,21,217047,Ransomware,Mumbai,Financial
+2020,11,13855,Ransomware,Mumbai,Financial
+2020,22,67026,Others,Mumbai,Financial
+2020,1,38154,Others,Mumbai,Financial
+2020,2,43057,Malware_Attacks,Mumbai,Financial
+2020,17,60645,Malware_Attacks,Mumbai,Financial
+2020,26,162994,Others,Mumbai,Financial
+2020,3,152596,Ransomware,Mumbai,Financial
+2020,13,212153,Phishing,Mumbai,Financial
+2020,16,86958,Others,Mumbai,Financial
+2020,8,76503,Ransomware,Mumbai,Financial
+2020,26,291116,Malware_Attacks,Mumbai,Financial
+2020,21,80537,Malware_Attacks,Mumbai,Financial
+2020,22,200627,Phishing,Mumbai,Financial
+2020,18,296016,Online Fraud,Mumbai,Financial
+2020,4,26901,Phishing,Mumbai,Financial
+2020,19,211612,Others,Mumbai,Financial
+2020,18,49630,Malware_Attacks,Mumbai,Financial
+2020,7,185277,Online Fraud,Mumbai,Financial
+2020,14,273725,Online Fraud,Mumbai,Financial
+2020,6,101465,Online Fraud,Mumbai,Financial
+2020,20,137509,Online Fraud,Mumbai,Financial
+2021,4,100083,Others,Bangalore,Corporate
+2021,28,33515,Others,Bangalore,Corporate
+2021,15,293182,Phishing,Bangalore,Corporate
+2021,10,40317,Malware_Attacks,Bangalore,Corporate
+2021,4,108503,Others,Bangalore,Corporate
+2021,16,178461,Malware_Attacks,Bangalore,Corporate
+2021,5,127962,Phishing,Bangalore,Corporate
+2021,10,41599,Online Fraud,Bangalore,Corporate
+2021,11,259731,Ransomware,Bangalore,Corporate
+2021,11,165261,Others,Bangalore,Corporate
+2021,5,196099,Malware_Attacks,Bangalore,Corporate
+2021,14,93415,Phishing,Bangalore,Corporate
+2021,11,134066,Online Fraud,Bangalore,Corporate
+2021,23,233654,Malware_Attacks,Bangalore,Corporate
+2021,27,193474,Online Fraud,Bangalore,Corporate
+2021,22,178834,Ransomware,Bangalore,Corporate
+2021,15,238495,Malware_Attacks,Bangalore,Corporate
+2021,25,165155,Ransomware,Bangalore,Corporate
+2021,18,62059,Online Fraud,Bangalore,Corporate
+2021,21,47977,Malware_Attacks,Bangalore,Corporate
+2021,28,78401,Others,Bangalore,Corporate
+2021,7,143010,Phishing,Bangalore,Corporate
+2021,24,44531,Phishing,Bangalore,Corporate
+2021,28,270907,Phishing,Bangalore,Corporate
+2021,27,217407,Others,Bangalore,Corporate
+2021,7,24218,Others,Bangalore,Corporate
+2021,9,289934,Others,Bangalore,Corporate
+2021,16,82926,Malware_Attacks,Bangalore,Corporate
+2021,13,122076,Others,Bangalore,Corporate
+2021,24,157567,Online Fraud,Bangalore,Corporate
+2021,15,267732,Others,Bangalore,Corporate
+2021,3,213029,Malware_Attacks,Bangalore,Corporate
+2021,17,10553,Online Fraud,Bangalore,Corporate
+2021,28,91949,Others,Bangalore,Corporate
+2021,5,238948,Online Fraud,Bangalore,Corporate
+2021,6,81650,Ransomware,Bangalore,Corporate
+2021,12,26191,Online Fraud,Bangalore,Corporate
+2021,25,260664,Online Fraud,Bangalore,Corporate
+2021,3,143599,Malware_Attacks,Bangalore,Corporate
+2021,8,27443,Online Fraud,Bangalore,Corporate
+2022,17,194399,Ransomware,Delhi,Personal
+2022,16,243364,Phishing,Delhi,Personal
+2022,2,174906,Phishing,Delhi,Personal
+2022,23,278349,Malware_Attacks,Delhi,Personal
+2022,27,143053,Others,Delhi,Personal
+2022,18,96147,Ransomware,Delhi,Personal
+2022,21,203452,Malware_Attacks,Delhi,Personal
+2022,19,45809,Others,Delhi,Personal
+2022,9,202304,Online Fraud,Delhi,Personal
+2022,17,217778,Malware_Attacks,Delhi,Personal
+2022,27,185896,Ransomware,Delhi,Personal
+2022,26,257764,Others,Delhi,Personal
+2022,1,268107,Online Fraud,Delhi,Personal
+2022,15,91825,Online Fraud,Delhi,Personal
+2022,3,274767,Malware_Attacks,Delhi,Personal
+2022,7,83769,Online Fraud,Delhi,Personal
+2022,6,194909,Others,Delhi,Personal
+2022,23,67039,Online Fraud,Delhi,Personal
+2022,14,178132,Phishing,Delhi,Personal
+2022,16,256036,Ransomware,Delhi,Personal
+2022,7,89539,Ransomware,Delhi,Personal
+2022,1,132753,Phishing,Delhi,Personal
+2022,5,89478,Online Fraud,Delhi,Personal
+2022,21,273772,Phishing,Delhi,Personal
+2022,19,81999,Phishing,Delhi,Personal
+2022,6,140402,Online Fraud,Delhi,Personal
+2022,17,21775,Others,Delhi,Personal
+2022,19,14762,Malware_Attacks,Delhi,Personal
+2022,3,118557,Ransomware,Delhi,Personal
+2022,20,252156,Ransomware,Delhi,Personal
+2022,6,120009,Ransomware,Delhi,Personal
+2022,20,79822,Others,Delhi,Personal
+2022,27,100359,Others,Delhi,Personal
+2022,22,272808,Malware_Attacks,Delhi,Personal
+2022,6,184658,Ransomware,Delhi,Personal
+2022,20,41093,Online Fraud,Delhi,Personal
+2022,13,207093,Online Fraud,Delhi,Personal
+2022,4,13683,Online Fraud,Delhi,Personal
+2022,17,269429,Ransomware,Delhi,Personal
+2022,27,83413,Others,Delhi,Personal
+2023,4,98020,Ransomware,Lucknow,Government
+2023,20,25466,Others,Lucknow,Government
+2023,17,66612,Phishing,Lucknow,Government
+2023,16,73329,Others,Lucknow,Government
+2023,18,5629,Ransomware,Lucknow,Government
+2023,17,225559,Malware_Attacks,Lucknow,Government
+2023,28,27774,Others,Lucknow,Government
+2023,14,125316,Ransomware,Lucknow,Government
+2023,26,204877,Malware_Attacks,Lucknow,Government
+2023,19,56231,Ransomware,Lucknow,Government
+2023,5,138440,Ransomware,Lucknow,Government
+2023,25,126903,Phishing,Lucknow,Government
+2023,10,290071,Ransomware,Lucknow,Government
+2023,9,104101,Phishing,Lucknow,Government
+2023,23,8729,Others,Lucknow,Government
+2023,17,66776,Others,Lucknow,Government
+2023,1,201623,Online Fraud,Lucknow,Government
+2023,23,170623,Ransomware,Lucknow,Government
+2023,12,60880,Online Fraud,Lucknow,Government
+2023,14,137976,Malware_Attacks,Lucknow,Government
+2023,28,286073,Ransomware,Lucknow,Government
+2023,19,196702,Others,Lucknow,Government
+2023,9,213380,Online Fraud,Lucknow,Government
+2023,14,294461,Others,Lucknow,Government
+2023,16,98700,Malware_Attacks,Lucknow,Government
+2023,18,295933,Ransomware,Lucknow,Government
+2023,9,165774,Others,Lucknow,Government
+2023,12,213734,Online Fraud,Lucknow,Government
+2023,28,67435,Online Fraud,Lucknow,Government
+2023,15,89827,Phishing,Lucknow,Government
+2023,7,271518,Ransomware,Lucknow,Government
+2023,26,182438,Others,Lucknow,Government
+2023,20,32290,Online Fraud,Lucknow,Government
+2023,13,7773,Phishing,Lucknow,Government
+2023,27,81193,Ransomware,Lucknow,Government
+2023,20,233263,Phishing,Lucknow,Government
+2023,3,142935,Online Fraud,Lucknow,Government
+2023,12,46963,Others,Lucknow,Government
+2023,2,206497,Ransomware,Lucknow,Government
+2023,20,278156,Malware_Attacks,Lucknow,Government
+2024,23,35127,Online Fraud,Chennai,Social Media
+2024,21,264191,Ransomware,Chennai,Social Media
+2024,1,110752,Others,Chennai,Social Media
+2024,10,107103,Phishing,Chennai,Social Media
+2024,26,272674,Others,Chennai,Social Media
+2024,23,126462,Others,Chennai,Social Media
+2024,6,23906,Malware_Attacks,Chennai,Social Media
+2024,8,5150,Online Fraud,Chennai,Social Media
+2024,3,149670,Ransomware,Chennai,Social Media
+2024,12,212168,Ransomware,Chennai,Social Media
+2024,19,110020,Others,Chennai,Social Media
+2024,1,40975,Phishing,Chennai,Social Media
+2024,18,154156,Others,Chennai,Social Media
+2024,19,187502,Malware_Attacks,Chennai,Social Media
+2024,27,149969,Online Fraud,Chennai,Social Media
+2024,20,106987,Ransomware,Chennai,Social Media
+2024,13,7438,Malware_Attacks,Chennai,Social Media
+2024,6,218455,Others,Chennai,Social Media
+2024,4,297883,Phishing,Chennai,Social Media
+2024,17,159272,Malware_Attacks,Chennai,Social Media
+2024,4,274110,Malware_Attacks,Chennai,Social Media
+2024,18,136146,Ransomware,Chennai,Social Media
+2024,13,258561,Online Fraud,Chennai,Social Media
+2024,25,183080,Ransomware,Chennai,Social Media
+2024,22,246550,Others,Chennai,Social Media
+2024,28,19339,Ransomware,Chennai,Social Media
+2024,4,140171,Phishing,Chennai,Social Media
+2024,13,120543,Online Fraud,Chennai,Social Media
+2024,26,170533,Ransomware,Chennai,Social Media
+2024,12,275796,Others,Chennai,Social Media
+2024,1,143071,Online Fraud,Chennai,Social Media
+2024,10,53763,Ransomware,Chennai,Social Media
+2024,22,184302,Phishing,Chennai,Social Media
+2024,18,98577,Ransomware,Chennai,Social Media
+2024,11,190355,Online Fraud,Chennai,Social Media
+2024,19,146073,Online Fraud,Chennai,Social Media
+2024,24,104702,Ransomware,Chennai,Social Media
+2024,24,109682,Online Fraud,Chennai,Social Media
+2024,24,131907,Malware_Attacks,Chennai,Social Media
+2024,7,125170,Online Fraud,Chennai,Social Media

@@ -1,0 +1,145 @@
+{
+  "accuracy": 0.9375,
+  "precision_weighted": 0.9379,
+  "recall_weighted": 0.9375,
+  "f1_weighted": 0.9375,
+  "precision_macro": 0.9538,
+  "recall_macro": 0.924,
+  "f1_macro": 0.9378,
+  "per_class": {
+    "Low": {
+      "precision": 1.0,
+      "recall": 0.875,
+      "f1_score": 0.9333,
+      "support": 8
+    },
+    "Medium": {
+      "precision": 0.9437,
+      "recall": 0.9306,
+      "f1_score": 0.9371,
+      "support": 72
+    },
+    "High": {
+      "precision": 0.9192,
+      "recall": 0.9381,
+      "f1_score": 0.9286,
+      "support": 97
+    },
+    "Critical": {
+      "precision": 0.9524,
+      "recall": 0.9524,
+      "f1_score": 0.9524,
+      "support": 63
+    }
+  },
+  "confusion_matrix": {
+    "matrix": [
+      [
+        7,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        67,
+        5,
+        0
+      ],
+      [
+        0,
+        3,
+        91,
+        3
+      ],
+      [
+        0,
+        0,
+        3,
+        60
+      ]
+    ],
+    "labels": [
+      "Low",
+      "Medium",
+      "High",
+      "Critical"
+    ]
+  },
+  "baseline_comparison": [
+    {
+      "model": "XGBoost (Selected)",
+      "accuracy": 0.9375,
+      "f1_score": 0.9375,
+      "type": "Gradient Boosted Trees",
+      "explainability": "Native TreeExplainer (SHAP)",
+      "status": "Production Active"
+    },
+    {
+      "model": "Random Forest",
+      "accuracy": 0.8875,
+      "f1_score": 0.9378,
+      "type": "Ensemble Bagging",
+      "explainability": "Gini Impurity / TreeExplainer",
+      "status": "Baseline"
+    },
+    {
+      "model": "Logistic Regression",
+      "accuracy": 0.95,
+      "f1_score": 0.9025,
+      "type": "Linear Classifier",
+      "explainability": "Coefficient weights",
+      "status": "Baseline"
+    }
+  ],
+  "global_feature_importance": [
+    {
+      "feature": "Amount_Lost_INR",
+      "importance": 1.8661,
+      "percentage": 49.48
+    },
+    {
+      "feature": "Sector_Criticality",
+      "importance": 0.6276,
+      "percentage": 16.64
+    },
+    {
+      "feature": "Vector_Exploitability",
+      "importance": 0.5142,
+      "percentage": 13.64
+    },
+    {
+      "feature": "Financial_Loss_Log",
+      "importance": 0.4321,
+      "percentage": 11.46
+    },
+    {
+      "feature": "Category_Code",
+      "importance": 0.1207,
+      "percentage": 3.2
+    },
+    {
+      "feature": "Day",
+      "importance": 0.0626,
+      "percentage": 1.66
+    },
+    {
+      "feature": "Incident_Type_Code",
+      "importance": 0.0609,
+      "percentage": 1.62
+    },
+    {
+      "feature": "Year",
+      "importance": 0.0533,
+      "percentage": 1.41
+    },
+    {
+      "feature": "City_Code",
+      "importance": 0.0335,
+      "percentage": 0.89
+    }
+  ],
+  "sample_count": 1200,
+  "train_samples": 960,
+  "test_samples": 240
+}
